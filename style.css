@@ -1,0 +1,108 @@
+/* Colors and fonts */
+
+body {
+	background-color: rgb(213, 178, 217);
+	color: rgb(30, 30, 30);
+	font-family: Arial;
+	font-size: 30px;
+	letter-spacing: 1px;
+	font-weight: lighter;
+}
+
+h2,h3,h4,h5,h6 {
+	font-family: cursive;
+	text-align: center;
+}
+
+ h1 {
+	color: #d60f95;
+	font-size: 45px;
+	font-weight: 400;
+	font-family: cursive;
+	}
+
+p {
+	font-family: palatino;
+	width: 90%;
+	text-align: center;
+}
+
+ h2 {
+	color: #700B97;
+	font-size: 60px;
+}
+
+ 
+
+ h3 {
+ 	color:  black;
+ 	font-size: 30px;
+ 	text-align: left;
+ 	font-family: cursive;
+ }
+ 
+
+
+a {
+   text-decoration: none;
+   color: deeppink;
+}
+a:hover {
+  color: purple;
+}
+
+
+div {
+	background: white;
+	border: 6px solid black;
+	margin: 40px;
+	border-right: 6px dashed black;
+  border-left: 6px dashed black;
+  border-bottom: 6px solid black;
+  padding: 70px;
+  border-radius: 30px;
+  width: 1150px;
+  margin: 4 auto;
+  text-align: center;
+	}
+
+
+.img-circle {
+	border-radius: 50%;
+	text-align: center;
+}
+.img-bordered {
+	border: 20px solid hotpink;
+}
+
+
+/* Custom design and with class*/
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px;
+	border-radius: 30px;
+	margin: 60px auto;
+	width: 800px;
+	}
+.text-center {
+	text-align: center;
+}
+.description {
+	text-align: center;
+	background: white;
+	border-radius: 30px;
+	margin: 150px auto;
+	width: 1300px;
+}
+
+td {
+	border: 2px solid black;
+	font-size: 40px;
+	font-family: palatino;
+}
+
+
+
+
